@@ -1,0 +1,10 @@
+h1 {
+	font-family: 'Fugaz One', cursive;
+	font-weight: 200;
+	color: black;
+}
+
+.smaller {
+	height: 200px;
+	width: 200px;
+}
