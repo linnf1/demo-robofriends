@@ -1,3 +1,3 @@
-#Demo Robo Friends App
+# Demo RoboFriends App
 *_Place description here_*
 
